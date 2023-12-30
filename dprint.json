@@ -44,7 +44,8 @@
     ".netlify",
     "pnpm-lock.yaml",
     "yarn.lock",
-    "server"
+    "server",
+    "src/styled-system"
   ],
   "plugins": [
     "https://plugins.dprint.dev/typescript-0.88.7.wasm",
