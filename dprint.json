@@ -1,0 +1,54 @@
+{
+  "typescript": {
+  },
+  "json": {
+  },
+  "markdown": {
+  },
+  "excludes": [
+    "**/node_modules",
+    "**/*-lock.json",
+    "**/*.log",
+    "**/.DS_Store",
+    "*.",
+    ".vscode/settings.json",
+    ".history",
+    ".yarn",
+    "bazel-*",
+    "bazel-bin",
+    "bazel-out",
+    "bazel-qwik",
+    "bazel-testlogs",
+    "dist",
+    "dist-dev",
+    "lib",
+    "lib-types",
+    "etc",
+    "external",
+    "node_modules",
+    "temp",
+    "tsc-out",
+    "tsdoc-metadata.json",
+    "target",
+    "output",
+    "rollup.config.js",
+    "build",
+    ".cache",
+    ".vscode",
+    ".rollup.cache",
+    "dist",
+    "tsconfig.tsbuildinfo",
+    "vite.config.ts",
+    "*.spec.tsx",
+    "*.spec.ts",
+    ".netlify",
+    "pnpm-lock.yaml",
+    "yarn.lock",
+    "server"
+  ],
+  "plugins": [
+    "https://plugins.dprint.dev/typescript-0.88.7.wasm",
+    "https://plugins.dprint.dev/json-0.19.1.wasm",
+    "https://plugins.dprint.dev/markdown-0.16.3.wasm"
+  ]
+}
