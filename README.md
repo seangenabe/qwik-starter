@@ -1,6 +1,6 @@
 # Qwik starter template
 
-Starter template with Qwik + PandaCSS + Dprint.
+Starter template with Qwik + PandaCSS (Styling) + Dprint (Formatting). Static site generation enabled.
 
 Get started by using [degit](https://github.com/Rich-Harris/degit):
 
