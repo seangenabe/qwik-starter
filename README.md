@@ -1,3 +1,13 @@
+# Qwik starter template
+
+Starter template with Qwik + PandaCSS + Dprint.
+
+Get started by using [degit](https://github.com/Rich-Harris/degit):
+
+```
+npx degit <this repo>
+```
+
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
